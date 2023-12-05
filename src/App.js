@@ -1,3 +1,8 @@
 export default function App() {
-  return <h1>Hello World!</h1>;
+  return (
+    <main>
+      <h1>Collectify</h1>
+      <ul>//....</ul>
+    </main>
+  );
 }
